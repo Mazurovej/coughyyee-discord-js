@@ -9,6 +9,4 @@ Any Questions, Leave Them in The Comment Sections Of The Video Or.. DM Me On Dis
 
 Discord Server: https://discord.gg/5hQa3wr
 
-Youtube Channel: https://www.youtube.com/channel/UCnkI1CiXpdQeibcwtCtVvIQ
-
 Have A Good One!

@@ -7,6 +7,7 @@ Any Questions, Leave Them in The Comment Sections Of The Video Or.. DM Me On Dis
 
 
 Youtube Channel: https://www.youtube.com/channel/UCnkI1CiXpdQeibcwtCtVvIQ
+
 Discord Server: https://discord.gg/5hQa3wr
 
 Have A Good One!

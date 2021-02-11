@@ -1,0 +1,19 @@
+{
+  "name": "tutbot",
+  "version": "1.0.0",
+  "description": "tutroial bot for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coughyyee",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "parse-ms": "^2.1.0",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.0.53",
+    "weather-js": "^2.0.0"
+  }
+}

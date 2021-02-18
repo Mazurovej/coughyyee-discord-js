@@ -6,8 +6,6 @@ But If You Just Wanna Use Them Then.. Here They are ;)
 Any Questions, Leave Them in The Comment Sections Of The Video Or.. DM Me On Discord: Coughyyee..#9447
 
 
-Youtube Channel: https://www.youtube.com/channel/UCnkI1CiXpdQeibcwtCtVvIQ
-
 Discord Server: https://discord.gg/5hQa3wr
 
 

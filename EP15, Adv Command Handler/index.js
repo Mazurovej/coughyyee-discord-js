@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://coughyyee:youtube@youtube.k1ujk.mongodb.net/Data', {
+mongoose.connect('', {
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useFindAndModify: false 

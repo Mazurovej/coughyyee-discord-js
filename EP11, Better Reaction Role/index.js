@@ -32,7 +32,7 @@ bot.on('ready', () => {
 })
 //------------------------------------------------------------------------------
 
-bot.on("message", async message => {
+bot.on("message", async messge => {
 
     if(message.author.bot) return;   
     if(message.channel.type === 'dm') return;
